@@ -1,0 +1,30 @@
+version: 1.0
+sandboxed: false
+start: auto
+
+executables:
+{
+	ledmatrix = ( ledmatrixComponent )
+}
+
+processes:
+{
+	envVars:
+	{
+		LE_LOG_LEVEL = DEBUG
+	}
+
+	run:
+	{
+		( ledmatrix )
+	}
+}
+
+requires:
+{
+	device:
+	{
+		// replace these devices based on your module
+		[rw]	/dev/i2c-0	/dev/i2c-ledmatrix
+	}
+}
