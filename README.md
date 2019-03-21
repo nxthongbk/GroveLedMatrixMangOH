@@ -1,4 +1,4 @@
-# Integrate LittlevGL into Legato app
+# Integrate Grove Led Matrix Driver and MangoH
 
 This project demonstrates how to integrate Grove Led Matrix Driver with mangOH
 
