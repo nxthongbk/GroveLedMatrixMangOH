@@ -11,3 +11,5 @@ Hardware required:
 2. Grove Pi Connector: https://www.seeedstudio.com/GrovePi-p-2241.html
 
 Project Setup:
+1. Connect Grove Pi Connector with mangOH via rasberry Connector.
+2. Connect Led Matrix Driver with Grove Pi Connector to I2C-1 Port
