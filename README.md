@@ -6,7 +6,7 @@ This project demonstrates how to integrate Grove Led Matrix Driver with mangOH
 
 
 
-Hardware required:
+Hardware requirement:
 1. Grove Led Matrix Driver: http://wiki.seeedstudio.com/Grove-RGB_LED_Matrix_w-Driver/
 2. Grove Pi Connector: https://www.seeedstudio.com/GrovePi-p-2241.html
 
