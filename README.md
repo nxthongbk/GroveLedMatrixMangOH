@@ -7,7 +7,7 @@ This project demonstrates how to integrate Grove Led Matrix Driver with mangOH
 
 
 Hardware requirement:
-1. Grove Led Matrix Driver: http://wiki.seeedstudio.com/Grove-RGB_LED_Matrix_w-Driver/
+1. Grove-Laser_PM2.5_Sensor-HM3301: http://wiki.seeedstudio.com/Grove-Laser_PM2.5_Sensor-HM3301/
 2. Grove Pi Connector: https://www.seeedstudio.com/GrovePi-p-2241.html
 
 Project Setup:
